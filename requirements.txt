@@ -1,0 +1,13 @@
+Flask
+Flask-Bcrypt
+Flask-Cache
+Flask-Login
+flask-mongoengine
+-e git+https://minhnhb@bitbucket.org/minhnhb/string-utils.git#egg=string_utils
+-e git+https://github.com/paulchakravarti/gmail-sender.git#egg=gmail
+hashids
+python-dateutil
+redis
+requests
+simpleflake
+ua-parser
